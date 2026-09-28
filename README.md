@@ -1,5 +1,5 @@
 # Keyword Quality Annotation in Open Data
-* The repository contains the materials for the work proposed in the paper *"Are the Provided Keywords on Open Data Portals Semantically Complete and Relevant? An Exploratory Study".*
+* The repository contains the materials for the work proposed in the paper *"An Annotation Framework and Benchmark Dataset for Keyword Quality in Open Data".*
 * This work proposes an annotation guideline and benchmark dataset for evaluating keyword quality in the context of open data. 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International
